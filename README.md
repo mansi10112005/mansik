@@ -1,3 +1,3 @@
 # mansik
-This is my first GIt repository
+This is my first GIt Repository.
 Author - Mansi Kokate
